@@ -10,3 +10,10 @@
 [Download Portugol](http://lite.acad.univali.br/portugol/)
 
 [Download Flowgorithm](http://www.flowgorithm.org/download/)
+
+[Figma layouts](https://www.figma.com/)
+
+[Fonts Google](https://fonts.google.com/)
+
+[Palettes Generator](https://coolors.co/)
+
